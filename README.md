@@ -7,6 +7,7 @@ If you want to learn more about Quarkus, please visit its website:
 https://quarkus.io/
 
 Quinoa: https://quarkiverse.github.io/quarkiverse-docs/quarkus-quinoa/dev/
+
 Qute: https://quarkus.io/guides/qute
 
 
