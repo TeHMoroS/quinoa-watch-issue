@@ -1,0 +1,12 @@
+.box {
+    width: 10em;
+    height: 10em;
+}
+
+.red {
+    background-color: #f00;
+}
+
+.green {
+    background-color: #0f0;
+}
