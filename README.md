@@ -6,6 +6,10 @@ and Qute, obviously :) ).
 If you want to learn more about Quarkus, please visit its website:
 https://quarkus.io/
 
+Quinoa: https://quarkiverse.github.io/quarkiverse-docs/quarkus-quinoa/dev/
+Qute: https://quarkus.io/guides/qute
+
+
 This repository shows two things:
 
 1. A simple way of using Quinoa as a trigger for building UI bundles
